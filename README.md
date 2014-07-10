@@ -1,5 +1,5 @@
-Non-Floating Point Calculator
-COP 3503
+A Non-Floating Point Calculator written in C++ using polymorphism
+Class COP 3503 
 Section 6773
 
 Group 11-3
@@ -27,14 +27,3 @@ File-Input Mode
 	
 	The source directory contains an example file. The contents and name can both be changed, as long as
 	the format requirments are met.
-
-Changes Since First Submission
-	- General bug fixes for standard capabilities (all test cases work, including highly complex).
-	- Improved stability. 
-	- Ability to parse .txt files.
-	- No longer requires spaces between numbers/operators/parentheses. No spaces are required at all.
-	- Multiplication no longer needs to be explicit; i.e., "3(2+3)" outputs "15", and "3pi" is read as
-	  "3 * pi".
-	- Ability to read in decimals and output in decimal form (decimals can always be read in, and the
-	  decimal mode in the program only changes the output format). 
-	- Ability to display previous answers in decmial form (when in decimal mode). 
