@@ -1,4 +1,4 @@
-<h2>A Non-Floating Point Calculator written in C++ using polymorphism for a class.<h2>
+<h2>A Non-Floating Point Calculator written in C++ using runtime polymorphism with an abstract class for Programming Fundamentals 2.<h2>
 
 Class COP 3503 
 Section 6773
